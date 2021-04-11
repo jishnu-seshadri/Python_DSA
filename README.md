@@ -1,2 +1,2 @@
-# Python_data_structures_and_Algo
+# Python data structures and Algo
 Data Structures and Implementation in Python
